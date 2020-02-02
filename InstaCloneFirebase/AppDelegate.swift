@@ -34,6 +34,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
 
+    //ben bi tek seni eski gunleri isterim canım anlasana
+    //bu sabah yatagın bos kısmını resimlerinle süsledim.........
 
 }
 
